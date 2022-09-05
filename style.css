@@ -4,10 +4,19 @@ header {
     width: 300px;
     border: 15px solid green;
     padding: 50px;
-    margin-right: 500px;
+    margin-left: 450px;
+}
+button {
+    color: #3882F6;
 }
 
 
 body {
-    background-color: blue;
+    background-color: #1F2937;
 }
+
+h2 {
+    text-align: center;
+}
+
+
